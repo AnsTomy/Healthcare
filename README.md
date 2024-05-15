@@ -8,7 +8,7 @@ CSS
 Python Flask
 
 Javascript
-# Commit
+# Features 
 Admin module-Manage staff,dietician and hospital listand monitor user data.
 
 Staff module-Manage medicine stock.
